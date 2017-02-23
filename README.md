@@ -2,7 +2,7 @@
 
 Fuzzy Logic controller in real time, connected with an Arduino Mega sending IMU data attached to an arm with a propeller
 
-## Instalation
+## Installation
 
 Clone the repository in your computer:
 
@@ -28,16 +28,16 @@ The components you will need are:
 
 ## How to use
 
-When you got all the connections ready, start Matlab and run
+When you got all the connections ready, start Matlab and run:
 
 `simulink`
 
 Open the model (helicecontrolV2.slx)
 
-Upload the arduino code to the Mega board, and turn the power on.
+Upload the arduino code to the Mega board, and turn the power on
 
-Select the COM port.
+Select the COM port
 
-Start the Simulink model.
+Start the Simulink model
 
 Have fun!
