@@ -41,3 +41,8 @@ Select the COM port
 Start the Simulink model
 
 Have fun!
+
+
+## Licence
+
+This proyect is Copyright © 2016-2017 Lucas Gago. It is free software, and may be redistributed under the terms specified in the [MIT Licence](https://opensource.org/licenses/MIT).
